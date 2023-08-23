@@ -1,7 +1,7 @@
 # Kinesis Plugin
 
 This is a WordPress plugin that adds custom blocks and Tailwind CSS styling to your site.
-This plugin developed using the tailpress plugin to pull `Tailwind CSS styling`.
+This plugin developed using the tailpress plugin to fetch the `Tailwind CSS styling`.
 
 ## Important Note
 
