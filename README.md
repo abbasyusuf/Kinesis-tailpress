@@ -21,6 +21,8 @@ The Kinesis plugin provides the following:
 
 ## Usage
 
+![PNG of the Blocks](gutenberg-blocks.png)
+
 After installing and activating the plugin:
 
 1. Edit a page or post in the block editor
