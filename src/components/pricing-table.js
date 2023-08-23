@@ -41,7 +41,7 @@ wp.blocks.registerBlockType("na/pricing-table", {
             wp.element.createElement(
               "p",
               {},
-              "x1.data.quote.USD.total_market_cap",
+              "",
             ),
           ),
         ),
